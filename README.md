@@ -15,3 +15,5 @@ Yii2-admin
 
 1.clone代码后，进入项目执行 composer up 命令。
 然后你得到了一个极简后台框架。
+---
+2.user.sql导库 修改config/db/config.php 配置文件
