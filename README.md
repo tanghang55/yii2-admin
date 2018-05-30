@@ -2,7 +2,8 @@ Yii2-admin
 先看效果图：
 <p align="center">
     <a href="#">
-        <img src="https://github.com/tanghang55/yii2-admin/blob/master/yiiadmin.jpg?raw=true" height="100px">
+        <img src="https://github.com/tanghang55/yii2-admin/blob/master/yiiadmin.jpg?raw=true"
+         height="300px">
     </a>
     <h1 align="center">Yii2-admin</h1>
     <br>
